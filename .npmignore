@@ -1,0 +1,5 @@
+/node_modules
+babel.config.js
+/src
+release.config.js
+.gitignore

@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "simple component to display an 8bit-style avatar similar go github or npmjs",
   "main": "dist/Avatar.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "test",
     "build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files"
