@@ -1,0 +1,38 @@
+{
+  "name": "react-8bit-avatar",
+  "version": "1.0.0",
+  "description": "simple component to display an 8bit-style avatar similar go github or npmjs",
+  "main": "dist/Avatar.js",
+  "scripts": {
+    "test": "test",
+    "build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeboe/react-8bit-avatar.git"
+  },
+  "keywords": [
+    "react",
+    "avatar",
+    "8bit"
+  ],
+  "author": "mikeboe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeboe/react-8bit-avatar/issues"
+  },
+  "homepage": "https://github.com/mikeboe/react-8bit-avatar#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.11",
+    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-react": "^7.22.5",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.0.4"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@semantic-release/npm": "^10.0.5"
+  }
+}
