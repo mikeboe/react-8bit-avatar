@@ -53,4 +53,4 @@ Replace `"your_input_here"` with the desired input value.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
