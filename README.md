@@ -1,6 +1,6 @@
 # React 8bit Avatar Component
 
-A customizable React component that generates an 8-bit style avatar based on an input value. The avatar can be rendered with different color schemes, dimensions, and custom CSS classes for light and dark modes.
+A customizable yet simple React component that generates an 8-bit style avatar based on an input value. The avatar can be rendered with different color schemes, dimensions, and custom CSS classes for light and dark modes.
 
 ## Installation
 
